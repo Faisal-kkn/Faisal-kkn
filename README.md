@@ -8,9 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/faisal_kkn" target="blank"><img src="https://img.shields.io/twitter/follow/faisal_kkn?logo=twitter&style=for-the-badge" alt="faisal_kkn" /></a> </p>
 
-- 🔭 I’m currently working on Web Development **Social Media**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Nexr js**
 
 - 📫 How to reach me **faisalkkn9946@gmail.com**
 
