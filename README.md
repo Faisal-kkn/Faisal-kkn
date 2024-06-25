@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Nexr js**
 
-- 📫 How to reach me **faisalkkn9946@gmail.com**
+- 📫 How to reach me **faisalkunikkadan@gmail.com**
 
 
 [![@faisalkkn's Holopin board](https://holopin.me/faisalkkn)](https://holopin.io/@faisalkkn)
