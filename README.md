@@ -1,40 +1,148 @@
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
-<h1 align="center">Hi 👋, I'm Faisal K</h1>
-<h3 align="center">A passionate Full Stack Developer(MERN) from India</h3>
+<div>
+<p align="center">
+    <h1 align="center">✩&emsp;Faisal K&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-kkn&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-kkn" /> </p>
-
-<p align="left"> <a href="https://twitter.com/faisal_kkn" target="blank"><img src="https://img.shields.io/twitter/follow/faisal_kkn?logo=twitter&style=for-the-badge" alt="faisal_kkn" /></a> </p>
-
-
-- 🌱 I’m currently learning **Nexr js**
-
-- 📫 How to reach me **faisalkunikkadan@gmail.com**
-
-
-[![@faisalkkn's Holopin board](https://holopin.me/faisalkkn)](https://holopin.io/@faisalkkn)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/faisalkkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="faisalkkn" height="30" width="40" />codepen</a>
-<a href="https://twitter.com/faisal_kkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faisal_kkn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faisal k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal k" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/faisal-kkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="faisal-kkn" height="30" width="40" /></a>
-<a href="https://codesandbox.com/faisalkkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="faisalkkn" height="30" width="40" /></a>
-<a href="https://instagram.com/faisal_kkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisal_kkn" height="30" width="40" /></a>
-<a href="https://www.behance.net/faisal kkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="faisal kkn" height="30" width="40" /></a>
+<p align="center" width="100%">
+    Stay Curious!
 </p>
 
+</div>
+
+#### Software Engineer | JavaScript
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+![GitHub followers](https://img.shields.io/github/followers/faisal-kkn?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/faisal-kkn?style=social) <img src="https://komarev.com/ghpvc/?username=faisal-kkn" alt="faisal-kkn" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisal-kkn&show_icons=true&locale=en&layout=compact" alt="faisal-kkn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal-kkn&show_icons=true&locale=en" alt="faisal-kkn" /></p>
+## 👋 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-kkn&" alt="faisal-kkn" /></p>
+Hi there! I'm Faisal K – a passionate developer who loves turning ideas into reality through code.  
+
+- 💻 **Tech Enthusiast:** I enjoy working across the stack, from crisp frontend UIs to robust backend services.  
+- 🚀 **Continuous Learner:** Always exploring new technologies and best practices to write clean, efficient, and scalable code.  
+- 🎯 **Problem Solver:** I thrive on tackling challenging problems and designing elegant solutions.  
+- 🌱 **Currently Learning:** Diving deeper into advanced Next.js patterns and scalable backend architectures.  
+- 🛠️ **Languages & Tools:** React, Next.js, Node.js, Express, TypeScript, Vanilla JS, MongoDB  
+
+I believe in **open source**, **community learning**, and making tech accessible for everyone. You'll find projects here ranging from personal experiments to polished apps – all designed with love for the craft.  
+
+If you find something interesting, feel free to ⭐️ it, suggest improvements, or just say hi!
+
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
+<br>
+
+## 😎 You can reach me by
+<div>
+  <samp>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/faisal-k-52497a202/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="faisal-k" height="30"/></a>
+      <a href="mailto:faisalkkn9946@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="faisal-kkn" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://www.instagram.com/faisal_kkn/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="faisal-kkn" height="30"/></a>
+      <a href="https://wa.me/+919778013518" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="faisal-kkn" height="30"/></a>
+      <a href="https://x.com/faisal_kkn" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="faisal-kkn" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+
+<br>
+
+<h2>💼 Skills</h2>
+
+<table>
+  <tr>
+    <td><strong>🧑‍💻 Languages</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Frontend</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+      <img src="https://vitejs.dev/logo.svg" width="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🧩 Backend</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Database</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ DevOps</strong></td>
+    <td>
+      <img src="https://blog.opsmx.com/wp-content/uploads/2022/03/Standard-DevOps-CICD.png" width="60" />
+      <img src="https://img.icons8.com/?size=128&id=wU62u24brJ44&format=png" width="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Tools</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+      <img src="https://img.icons8.com/?size=128&id=52539&format=png" width="40" />
+    </td>
+  </tr>
+</table>
+
+<br>
+              
+## ⚙️ GitHub Analytics
+<p align="center">
+  <a href="https://github.com/faisal-kkn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faisal-kkn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/faisal-kkn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisal-kkn&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-kkn&theme=dark" height="180em" />
+</p>
+
+<br>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=faisal-kkn&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
+
+## ⚙️ LeetCode Analytics
+<p align="center">
+    <a href="https://leetcode.com/faisalkkn9946/"><img width="48%" src="https://leetcode.card.workers.dev/faisalkkn9946?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+</p>
