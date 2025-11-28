@@ -141,6 +141,10 @@ If you find something interesting, feel free to ⭐️ it, suggest improvements,
 ![](https://github-profile-trophy.vercel.app/?username=faisal-kkn&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 <br>
+## 🏊‍♂️ Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faisal-kkn&theme=react-dark&bg_color=20232a&hide_border=false" width="100%"/>
+<br>
 
 ## ⚙️ LeetCode Analytics
 <p align="center">
