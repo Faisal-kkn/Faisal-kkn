@@ -132,7 +132,7 @@ If you find something interesting, feel free to ⭐️ it, suggest improvements,
 </p>
 
 <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=Faisal-kkn&theme=dark)](https://git.io/streak-stats)
+    <img src="https://streak-stats.demolab.com/?user=Faisal-kkn"/>
 </p>
 
 <br>
