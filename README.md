@@ -132,7 +132,7 @@ If you find something interesting, feel free to ⭐️ it, suggest improvements,
 </p>
 
 <p align="center">
-  <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-kkn&theme=dark" height="180em" />
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=Faisal-kkn&theme=dark)](https://git.io/streak-stats)
 </p>
 
 <br>
