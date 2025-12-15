@@ -132,7 +132,7 @@ If you find something interesting, feel free to ⭐️ it, suggest improvements,
 </p>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Faisal-kkn"/>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=Faisal-kkn&fire=green"/>
 </p>
 
 <br>
