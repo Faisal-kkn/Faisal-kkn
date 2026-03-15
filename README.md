@@ -9,7 +9,6 @@
 </p>
 <br>
 <br>
-
 <p align="center" width="100%">
     Stay Curious!
 </p>
@@ -68,7 +67,6 @@ If you find something interesting, feel free to ⭐️ it, suggest improvements,
 </div>
 
 <br>
-
 <h2>💼 Skills</h2>
 
 <table>
